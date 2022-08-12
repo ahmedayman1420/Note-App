@@ -26,5 +26,5 @@ It's a simple, easy-to-use, absolutely free, fast and efficient note taking soft
 ![chrome_3Yf3QcY7c0](https://user-images.githubusercontent.com/76254195/184342661-d69e301c-df37-4ce3-960a-83aacfa421eb.png)
 ![chrome_5BU466cJC6](https://user-images.githubusercontent.com/76254195/184342669-d5f4c34f-27a2-43f8-ba95-8c8f29f523ff.png)
 
-## App Link: 
+## App Link: https://cmp-note.herokuapp.com/
 ## Try & not forget the star
